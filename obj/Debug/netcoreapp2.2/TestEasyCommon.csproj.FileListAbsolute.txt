@@ -1,0 +1,12 @@
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\TestEasyCommon.deps.json
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\TestEasyCommon.runtimeconfig.json
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\TestEasyCommon.runtimeconfig.dev.json
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\TestEasyCommon.dll
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.csprojAssemblyReference.cache
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.csproj.CoreCompileInputs.cache
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.AssemblyInfoInputs.cache
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.AssemblyInfo.cs
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\Intel.txt
+G:\EveAlerts\TestEasyCommon\bin\Debug\netcoreapp2.2\TestEasyCommon.pdb
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.dll
+G:\EveAlerts\TestEasyCommon\obj\Debug\netcoreapp2.2\TestEasyCommon.pdb
